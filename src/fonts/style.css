@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?o8wiet');
+  src:  url('fonts/icomoon.eot?o8wiet#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?o8wiet') format('truetype'),
+    url('fonts/icomoon.woff?o8wiet') format('woff'),
+    url('fonts/icomoon.svg?o8wiet#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-double-angle-pointing-to-right:before {
+  content: "\e912";
+}
+.icon-left-arrow-angle-big-gross-symbol:before {
+  content: "\e913";
+}
+.icon-star:before {
+  content: "\e90f";
+}
+.icon-delete:before {
+  content: "\e90d";
+}
+.icon-pushpin:before {
+  content: "\e915";
+}
+.icon-settings:before {
+  content: "\e914";
+}
+.icon-user:before {
+  content: "\e910";
+}
+.icon-sort-arrows-couple-pointing-up-and-down:before {
+  content: "\e90e";
+}
+.icon-check:before {
+  content: "\e900";
+}
+.icon-clock:before {
+  content: "\e901";
+}
+.icon-close:before {
+  content: "\e902";
+}
+.icon-down-arrow:before {
+  content: "\e903";
+}
+.icon-email:before {
+  content: "\e904";
+}
+.icon-instagram:before {
+  content: "\e905";
+}
+.icon-like:before {
+  content: "\e906";
+}
+.icon-magnifying-glass:before {
+  content: "\e907";
+}
+.icon-minus-sign:before {
+  content: "\e908";
+}
+.icon-pin:before {
+  content: "\e909";
+}
+.icon-plus:before {
+  content: "\e90a";
+}
+.icon-shopping-cart:before {
+  content: "\e90b";
+}
+.icon-vk:before {
+  content: "\e90c";
+}
+.icon-home3:before {
+  content: "\e911";
+}
+.icon-calendar:before {
+  content: "\e953";
+}
